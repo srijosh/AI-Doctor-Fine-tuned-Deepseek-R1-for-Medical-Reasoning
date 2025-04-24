@@ -49,7 +49,7 @@ This AI Doctor project leverages Unsloth for efficient LLM fine-tuning and Deeps
 
 Run the notebook cells step by step
 
-## Results & Evaluation
+## Results and Evaluation
 
 - 🧠 The model shows reasonable answers to medical queries after training on only 500 samples
 
